@@ -1,0 +1,6 @@
+Sometimes we may have dates in specific locales
+such as french e.g. 29-Mar-2019
+will be written in french as 29-Mars-2019. 
+To parse such dates, use DateTimeFormatter 
+withLocale() method ro get the formatter i
+n that locale and parse the dates.

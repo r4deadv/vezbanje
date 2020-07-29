@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 24 17:15:14 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-4740-9676-00000727d560 
+on database directory C:\Users\Rade\stillTesting\JavaApplication179\sminka with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_251/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\Rade\stillTesting\JavaApplication179
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

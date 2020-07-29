@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="JavaApplication162" duration-ms="5" started-at="2020-05-16T09:34:23Z" finished-at="2020-05-16T09:34:23Z">
+    <groups>
+    </groups>
+    <test name="javaapplication162 suite" duration-ms="5" started-at="2020-05-16T09:34:23Z" finished-at="2020-05-16T09:34:23Z">
+    </test> <!-- javaapplication162 suite -->
+  </suite> <!-- JavaApplication162 -->
+</testng-results>
